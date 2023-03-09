@@ -1,8 +1,6 @@
-# Kamila Pszeniczka
+# Kamila Pszeniczka - Portfolio
 
 Hello World 👋🏻
-
-## Portfolio
 
 ## About me
 
@@ -14,7 +12,7 @@ I always set high expectations for myself and constantly strive to set higher an
 * **SQL** (*basic queries*)
 * **TestLink, Redmine** (*writing test cases*)
 * **Jira** (*defect reporting*)
-* **Postman** (implementing API tests*)
+* **Postman** (*implementing API tests*)
 * **DevTools**
 * **UML** Unified Modeling Language
 * **HTML** and **CSS**
@@ -73,7 +71,9 @@ I always set high expectations for myself and constantly strive to set higher an
 
 ## Test plan
 *In Progress*
-## Bug reports
+## Test scenario
 *In Progress*
-## Test report
+## Test cases
+*In Progress*
+## Bug report
 *In Progress*
