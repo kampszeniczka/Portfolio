@@ -33,6 +33,7 @@ I always set high expectations for myself and constantly strive to set higher an
 * Emphatic and helpful
 
 ## Certificates
+12.04.2023 - ISTQB® Certified Tester Foundation Level [No20187/CTFL/2023](https://drive.google.com/file/d/1nvg-s-tc8ejjvMRjm3YTk6z9uHX5Upc-/view?usp=share_link)
 
 ## Courses and Trainings
 * Zostań Testerem (**Became a Tester**) - [*Sii Training Practice*](https://sii.pl)
